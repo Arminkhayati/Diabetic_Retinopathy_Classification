@@ -1,5 +1,5 @@
 # GREEN
-An Implementation of GREEN: a Graph REsidual rE-ranking Network for Grading Diabetic Retinopathy paper. </br>
+A Keras Implementation of GREEN: a Graph REsidual rE-ranking Network for Grading Diabetic Retinopathy paper. </br>
 </br>
 It is an EfficientNet and Graph Convolutional Network combination solution for Diabetic Retinopathy disease.
 </br>
